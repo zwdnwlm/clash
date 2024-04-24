@@ -1,5 +1,4 @@
 # 自用网站
-DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,linkease.com
 DOMAIN-SUFFIX,koolcenter.com
@@ -8,7 +7,6 @@ DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,zone139.com
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,heytapdl.com
@@ -30,3 +28,4 @@ DOMAIN-KEYWORD,idouyinvod
 DOMAIN-KEYWORD,ipify
 DOMAIN-KEYWORD,fomecard
 DOMAIN-KEYWORD,fomepay
+DOMAIN-KEYWORD,139
