@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,pchwjiasu.zztg168.com
 DOMAIN-SUFFIX,pcjpg.jiesiwa.com
-DOMAIN-SUFFIX,x6d.com
+
 
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,cloudflare.com
@@ -39,5 +39,5 @@ DOMAIN-KEYWORD,fomepay
 DOMAIN-KEYWORD,139
 DOMAIN-KEYWORD,euserv
 DOMAIN-KEYWORD,jianpian
-
+DOMAIN-KEYWORD,eu.org
 DOMAIN-KEYWORD,icloud
